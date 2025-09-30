@@ -3,6 +3,8 @@
 This project is a **Fake News Detection** model built with **Python**, **NLTK**, and **Scikit-learn**.  
 It classifies news articles as either **Fake** or **True** using text preprocessing, TF-IDF feature extraction, and Logistic Regression.
 
+Muhammad Farhan Madisa, Muhammad Ariq Athallah, and Sultan Mukhtar Khudori
+
 ---
 
 ## 🚀 Features
